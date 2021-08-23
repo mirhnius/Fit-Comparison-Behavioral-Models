@@ -15,3 +15,5 @@
 
 #### Conclusion: 
 Epsilon Greedy Model has low variance for its parameters and because of that, it seems to be a better model in comparison to Rescorla Wagner and its extended model.
+
+**You could find more detailed information in the [*`Report`*](https://github.com/mirhnius/Fit-Comparison-Behavioral-Models/blob/main/Report.pdf) file**
